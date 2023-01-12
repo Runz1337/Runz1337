@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/iambhuv/iambhuv/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Runz1337/Runx1337/output/snake.svg" alt="Snake animation" />
 <!--
 **Runz1337/Runz1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
